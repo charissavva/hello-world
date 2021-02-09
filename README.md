@@ -1,2 +1,2 @@
 # hello-world
-new repository
+Hi to all, testing.
